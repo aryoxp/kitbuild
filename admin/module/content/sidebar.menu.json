@@ -1,0 +1,46 @@
+{
+  "heading": "Content",
+  "menu": [
+    {
+      "id": "topic",
+      "label": "Topic",
+      "url": "content/topic",
+      "icon": "book"
+    },
+    {
+      "id": "text",
+      "label": "Text",
+      "url": "content/text",
+      "icon": "file-text"
+    },
+    {
+      "label": "Concept Maps",
+      "icon": "diagram-3",
+      "menu": [
+        {
+          "id": "teachermaps",
+          "label": "Teacher Maps",
+          "url": "content/tmap",
+          "icon": "list"
+        },
+        {
+          "id": "kits",
+          "label": "Kits",
+          "url": "content/kit",
+          "icon": "list"
+        },
+        {
+          "id": "learnermaps",
+          "label": "Learner Maps",
+          "url": "content/lmap",
+          "icon": "list"
+        }
+      ]
+    },{
+      "id": "grouping",
+      "label": "Grouping",
+      "url": "content/grouping",
+      "icon": "people-fill"
+    }
+  ]
+}
